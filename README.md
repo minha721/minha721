@@ -1,9 +1,9 @@
 ## 😊 About Me 😊
 🏫 Seoul National University of Science and Technology Computer Engineering (17.02 ~ 22.02) <br>
 🦁 LIKE LION 8TH (20.03 ~ 20.12) <br>
-📱 Samsumg Software Academy For Youth - Mobile Trak (22.07 ~ ing) <br>
+📱 Samsumg Software Academy For Youth - Mobile Track (22.07 ~ ing) <br>
 
-[![minha's GitHub stats](https://github-readme-stats.vercel.app/api?username=minha721&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![minha's GitHub stats](https://github-readme-stats.vercel.app/api?username=minha721&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 ## 🌳 Tech Stack 🌳
